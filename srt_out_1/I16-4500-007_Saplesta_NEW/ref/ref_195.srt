@@ -1,0 +1,12 @@
+1
+00:00:00,164 --> 00:00:02,697
+Mēģini tagad atrast kādu citu meiteni.
+
+2
+00:00:02,975 --> 00:00:05,545
+Tagad jau daudzas būs nācējas.
+
+3
+00:00:05,912 --> 00:00:08,648
+Zina, ka tu mantosi „Smēdenes”.
+

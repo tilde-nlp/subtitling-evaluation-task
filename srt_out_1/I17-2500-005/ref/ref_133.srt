@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,525
+Un tu sevi tagad pierādīsi darbā.
+
+2
+00:00:02,720 --> 00:00:04,234
+Tu iesi uz Aizvējiem.
+
+3
+00:00:04,375 --> 00:00:08,188
+Apskatīsies, vai miliči un karavīri
+netaisās uz mūsu pusi ķemmēt mežus.
+

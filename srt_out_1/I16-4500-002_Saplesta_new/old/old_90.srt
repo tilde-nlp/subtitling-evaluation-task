@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,250
+Mēs to varam griezties atpakaļ.
+
+2
+00:00:02,530 --> 00:00:04,400
+Uztraucās par to pašu.
+
+3
+00:00:04,930 --> 00:00:08,390
+Pēc kāda laika atradīsies atvērt ar bērnu, viņš sapratīs.
+

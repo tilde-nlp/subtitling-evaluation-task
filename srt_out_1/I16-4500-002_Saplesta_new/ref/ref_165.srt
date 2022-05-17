@@ -1,0 +1,12 @@
+1
+00:00:01,748 --> 00:00:03,615
+Iedomājies, bet ja būs divi?
+
+2
+00:00:04,074 --> 00:00:07,351
+Puisītis un... puisītis.
+
+3
+00:00:07,628 --> 00:00:09,882
+Iesākumam pietiks ar vienu.
+

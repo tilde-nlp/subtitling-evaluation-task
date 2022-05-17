@@ -1,0 +1,8 @@
+1
+00:00:00,814 --> 00:00:07,904
+Un vidējais tauku daudzums katrā no mūsu nodotajām olām bija aptuveni 4,5 grami nevienā skolā.
+
+2
+00:00:07,994 --> 00:00:12,714
+Taču vēlme sabiedrībā valda plaši izplatīts uzskats, ka olas satur holesterīnu.
+

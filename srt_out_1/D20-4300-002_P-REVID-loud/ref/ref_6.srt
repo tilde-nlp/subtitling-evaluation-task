@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,048
+Kāds sakars Trampam ar Latvijas pienu?
+
+2
+00:00:03,524 --> 00:00:05,865
+Kas govs pienā ir vērtīgs?
+
+3
+00:00:06,548 --> 00:00:09,175
+Kā pagatavot sojas pienu pašam?
+

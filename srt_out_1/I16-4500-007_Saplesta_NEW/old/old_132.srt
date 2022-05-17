@@ -1,0 +1,12 @@
+1
+00:00:00,005 --> 00:00:01,985
+Vidi kautrējas atzīties.
+
+2
+00:00:02,165 --> 00:00:03,145
+Nu ko tu radi.
+
+3
+00:00:05,945 --> 00:00:09,255
+Drīz iznāks mūsu kāzās par vedēju lepnumu, pīppauzi.
+

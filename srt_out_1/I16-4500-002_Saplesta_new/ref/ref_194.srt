@@ -1,0 +1,14 @@
+1
+00:00:01,136 --> 00:00:04,064
+Vienkārši ir meitenes,
+pie kurām mēs ejam,
+
+2
+00:00:04,193 --> 00:00:06,660
+un ir meitenes,
+pie kurām mēs neejam.
+
+3
+00:00:07,283 --> 00:00:09,950
+Ir meitenes, pie kurām mēs atgriežamies.
+

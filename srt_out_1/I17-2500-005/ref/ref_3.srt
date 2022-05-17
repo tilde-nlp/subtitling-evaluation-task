@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,223
+Un es to nevaru piedot sev, arī jums ne!
+
+2
+00:00:05,618 --> 00:00:07,595
+Es sev nevarētu piedot,
+
+3
+00:00:07,723 --> 00:00:11,111
+ja es, varot jūs izglābt,
+to nebūtu izdarījis!
+

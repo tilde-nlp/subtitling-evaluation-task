@@ -1,0 +1,8 @@
+1
+00:00:00,966 --> 00:00:02,556
+Tad būs numur divi
+
+2
+00:00:03,436 --> 00:00:09,666
+Nu tad nullīte būs pēdējā vietā pēc dzeltenuma intensitātes.
+

@@ -1,0 +1,13 @@
+1
+00:00:00,019 --> 00:00:03,819
+Būs labi. Braucam!
+- Bet, ja ir tik grūti...
+
+2
+00:00:04,727 --> 00:00:07,271
+...mēs vēl varam griezties atpakaļ.
+
+3
+00:00:07,354 --> 00:00:08,767
+Nē, nevaram.
+

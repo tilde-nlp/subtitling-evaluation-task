@@ -1,0 +1,13 @@
+1
+00:00:00,779 --> 00:00:03,677
+Nav mana diena šodien.
+
+2
+00:00:04,563 --> 00:00:06,783
+Ko? Vēl vienu partiju?
+
+3
+00:00:07,082 --> 00:00:11,247
+Ja tu normāli izdalīsi.
+- Nu, to es nevaru solīt.
+

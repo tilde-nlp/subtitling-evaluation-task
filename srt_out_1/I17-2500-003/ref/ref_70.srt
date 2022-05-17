@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,897
+Hm. Velns, pamanīja.
+
+2
+00:00:03,935 --> 00:00:05,516
+Vai tā ir problēma?
+
+3
+00:00:05,686 --> 00:00:09,858
+Nē, pagaidām nav,
+bet tā varētu kļūt par problēmu...
+

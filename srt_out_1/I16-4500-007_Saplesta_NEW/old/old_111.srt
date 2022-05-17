@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:01,620
+Bet vainīga esmu es.
+
+2
+00:00:01,800 --> 00:00:03,830
+Tagad arī Ēriks palaiž rokas.
+
+3
+00:00:04,440 --> 00:00:06,800
+Bet es esmu vainīgs, saki godīgi.
+
+4
+00:00:06,860 --> 00:00:07,830
+Nav godīgi.
+

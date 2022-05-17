@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,760
+Jums vēl tāls ceļš ir laba.
+
+2
+00:00:03,430 --> 00:00:06,230
+Ja neiekāpt pa ceļam kādā čekistus.
+
+3
+00:00:07,670 --> 00:00:09,340
+Ķinis veiks mežoni.
+

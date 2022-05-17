@@ -1,0 +1,4 @@
+1
+00:00:01,092 --> 00:00:12,842
+Visvairāk mūsu ķermenis laktāzi strādā zīdaiņa vecumā tad, kad viens ir mūsu galvenais uzturs, taču pusaudžu vecumā šī enzīma daudzums mēdz krasi samazināties.
+

@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:02,889
+Ikdienā sniedz gastroenterologa konsultācijas,
+
+2
+00:00:03,018 --> 00:00:07,047
+diagnosticē un ārstē
+dažādas kuņģa un zarnu trakta slimības.
+
+3
+00:00:07,548 --> 00:00:11,159
+Mēs esam skaidrojuši,
+kas ir laktozes nepanesība,
+

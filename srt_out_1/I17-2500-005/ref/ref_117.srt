@@ -1,0 +1,12 @@
+1
+00:00:05,225 --> 00:00:08,135
+Pats atpakaļ pie mājas! Mudīgi!
+
+2
+00:00:10,353 --> 00:00:12,742
+Šie gan man patīk, rūdītie veči.
+
+3
+00:00:13,176 --> 00:00:15,292
+Barona vārds tevi glābj.
+

@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,018
+Visu informāciju par olas kategoriju,
+
+2
+00:00:03,072 --> 00:00:05,406
+izcelsmes valsti un ražotāju
+
+3
+00:00:05,500 --> 00:00:08,009
+varam atrast uz paša produkta - olas.
+

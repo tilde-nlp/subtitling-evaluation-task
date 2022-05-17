@@ -1,0 +1,8 @@
+1
+00:00:00,837 --> 00:00:03,647
+Es teikšu, kā tas pastaigu laukums ir iekārtots.
+
+2
+00:00:03,737 --> 00:00:10,707
+Ja pastaigu laukums būs viss zem saules apakšā, tad es pieļauju, ka visdrīzāk tie putni, kuri lielāko dienas daļu atradīsies kūti.
+

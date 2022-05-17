@@ -1,0 +1,13 @@
+1
+00:00:00,141 --> 00:00:03,936
+Vai jums ir kāda informācija,
+kā Vitoldam iet,
+
+2
+00:00:05,141 --> 00:00:07,444
+vai viņš ir pie labas veselības?
+
+3
+00:00:08,134 --> 00:00:10,035
+Viņš ir vesels kā bullis.
+

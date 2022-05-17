@@ -1,0 +1,8 @@
+1
+00:00:01,614 --> 00:00:05,164
+Es tur tikai vēstuli. Rīkuri kļuva. bankas
+
+2
+00:00:05,214 --> 00:00:06,674
+bankas izveidi.
+

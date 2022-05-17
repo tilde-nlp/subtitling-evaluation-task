@@ -1,0 +1,12 @@
+1
+00:00:00,123 --> 00:00:03,152
+Viņam galvā bija tikai viens – gulta!
+
+2
+00:00:04,243 --> 00:00:06,341
+Un es pateicu „nē”.
+
+3
+00:00:07,135 --> 00:00:09,486
+Nu, ja tā, tad tu darīji pareizi.
+

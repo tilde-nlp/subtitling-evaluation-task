@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:02,755
+Tur tiks pārbaudīta 12 ražotāju
+
+2
+00:00:02,885 --> 00:00:05,523
+Latvijas veikalos
+pieejamo olu uzturvērtība,
+
+3
+00:00:05,617 --> 00:00:09,285
+lai noskaidrotu,
+vai tās būtiski atšķiras.
+

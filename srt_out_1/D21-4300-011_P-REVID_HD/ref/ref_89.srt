@@ -1,0 +1,12 @@
+1
+00:00:00,677 --> 00:00:04,516
+ir viens no labākajiem rādītājiem,
+
+2
+00:00:04,634 --> 00:00:05,950
+kas liecina par to,
+
+3
+00:00:06,239 --> 00:00:09,674
+cik labi vai slikti putns jūtas.
+

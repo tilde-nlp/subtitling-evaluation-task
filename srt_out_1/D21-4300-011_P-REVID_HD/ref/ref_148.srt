@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:02,738
+Tas, cik košs ir olas dzeltenums,
+
+2
+00:00:03,058 --> 00:00:06,216
+nenorāda, ka ola būtu
+mazāk vai vairāk veselīga.
+
+3
+00:00:06,618 --> 00:00:09,898
+Tas, cik krāsa ir izteikta,
+ir atkarīgs no vistas uztura.
+

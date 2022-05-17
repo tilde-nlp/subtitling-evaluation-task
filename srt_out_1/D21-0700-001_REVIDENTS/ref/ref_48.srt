@@ -1,0 +1,13 @@
+1
+00:00:00,060 --> 00:00:03,365
+Tas ir pirmais,
+ko nekādā gadījumā nedrīkst darīt.
+
+2
+00:00:03,467 --> 00:00:07,359
+[Ieva] Ko jūs sakāt? Kāpēc? - Es pateikšu.
+
+3
+00:00:07,727 --> 00:00:08,984
+Te ir rāvējslēdzējs.
+

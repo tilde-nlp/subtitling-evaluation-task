@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:03,451
+Pēc biržas cenām.
+Mums ir sadalīts nakts un dienas tarifs.
+
+2
+00:00:03,587 --> 00:00:08,744
+Uz tā rēķina mēs cenšamies ietaupīt,
+liekot veļas mašīnu uz "taimera",
+
+3
+00:00:08,865 --> 00:00:11,316
+lai tā mazgātu naktī, kad cena ir zemāka.
+

@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:02,111
+Labs ir, dod šurp avīzi!
+- Nē, avīzes nav.
+
+2
+00:00:02,191 --> 00:00:05,374
+Ir tikai vēstule Rijkurim no bankas.
+
+3
+00:00:05,507 --> 00:00:08,294
+No bankas?
+Interesanti.
+

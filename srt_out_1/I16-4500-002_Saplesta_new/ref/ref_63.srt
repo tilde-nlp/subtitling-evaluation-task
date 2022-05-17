@@ -1,0 +1,13 @@
+1
+00:00:00,105 --> 00:00:02,923
+Šito, goda vārds,
+vajadzētu mātei pastāstīt.
+
+2
+00:00:05,437 --> 00:00:08,324
+Tev ausis sarkanas palika!
+
+3
+00:00:08,397 --> 00:00:10,927
+Tu gan esi jocīgs!
+

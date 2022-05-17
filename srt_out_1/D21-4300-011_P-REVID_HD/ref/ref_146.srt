@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,769
+Loģiski, ka čaumala būs plānāka.
+
+2
+00:00:04,763 --> 00:00:08,186
+Izmantotais kalcija apjoms
+ir tieši tāds pats,
+
+3
+00:00:08,259 --> 00:00:09,603
+bet ola ir lielāka.
+

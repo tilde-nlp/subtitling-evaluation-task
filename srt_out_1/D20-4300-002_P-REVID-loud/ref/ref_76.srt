@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,222
+Šiem skolēniem pienu piegādā
+Rīgas piena kombināts.
+
+2
+00:00:03,373 --> 00:00:05,356
+Un tādēļ ir "Rasēns".
+
+3
+00:00:05,591 --> 00:00:08,702
+Citās Latvijas vietās piegādātāji atšķiras.
+

@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,240
+Es viņam vakar pateica, un ko viņš.
+
+2
+00:00:05,120 --> 00:00:08,370
+Teica, ka nav pārliecināts, ka tas ir viņu bērns.
+
+3
+00:00:08,630 --> 00:00:10,330
+Bet tas ir viņa.
+

@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:02,170
+Nekādu problēmu, kādas vajadzēs.
+
+2
+00:00:03,340 --> 00:00:05,520
+NASA lūdz, lai braucamais ir Arvīds.
+
+3
+00:00:05,930 --> 00:00:07,260
+Arvīds ir aizņemts.
+
+4
+00:00:07,340 --> 00:00:08,200
+Braukšu es.
+

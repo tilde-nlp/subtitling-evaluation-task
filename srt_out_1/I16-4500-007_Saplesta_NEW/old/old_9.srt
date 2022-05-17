@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,730
+Var jau viņam no pirmās dienas Karaliskā opera.
+
+2
+00:00:04,380 --> 00:00:06,060
+Piedāvājos kā tāda.
+
+3
+00:00:07,120 --> 00:00:09,610
+Es vienalga nesaprotu, kā Ēriks varēju.
+

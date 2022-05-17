@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:01,130
+Protams.
+
+2
+00:00:01,350 --> 00:00:04,280
+Jaunkundze ir ļoti simpātiska.
+
+3
+00:00:04,920 --> 00:00:06,570
+Zariņa kungs.
+
+4
+00:00:06,890 --> 00:00:08,910
+Es gribētu lūgt jums vienu grāmatu.
+

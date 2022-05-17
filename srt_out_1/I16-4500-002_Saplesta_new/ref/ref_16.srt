@@ -1,0 +1,14 @@
+1
+00:00:01,693 --> 00:00:05,522
+Ja es tur satieku Mariju,
+kā es viņai acīs skatīšos?
+
+2
+00:00:05,576 --> 00:00:07,026
+Tas ir labais!
+
+3
+00:00:07,087 --> 00:00:10,708
+Šī viņu apzog,
+bet viņam ir jauns acīs skatīties.
+

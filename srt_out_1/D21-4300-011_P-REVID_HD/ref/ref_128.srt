@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,503
+Tad būs numur divi.
+
+2
+00:00:02,743 --> 00:00:05,724
+Nullīte būs pēdējā vietā
+
+3
+00:00:05,914 --> 00:00:08,406
+pēc dzeltenuma intensitātes.
+

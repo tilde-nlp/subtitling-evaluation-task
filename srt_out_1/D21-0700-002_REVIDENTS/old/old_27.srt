@@ -1,0 +1,4 @@
+1
+00:00:00,248 --> 00:00:09,668
+Un tad mēs mēģinām neizmantot visas lampiņas, varbūt, piemēram, šajā uzturā mēs dedzinām trīs lampiņas no sešām jo mums tik daudz gaismu nevajag.
+

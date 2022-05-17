@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,929
+Mēs mēģinām neizmantot visas lampiņas,
+
+2
+00:00:03,101 --> 00:00:06,877
+piemēram, šajā lustrā
+mēs dedzinām trīs lampiņas no sešām,
+
+3
+00:00:07,098 --> 00:00:09,174
+jo mums tik daudz gaismu nevajag.
+

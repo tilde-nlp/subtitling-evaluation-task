@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:04,174
+Uz visu veidu vistu olām
+var attiecināt apgalvojumu,
+
+2
+00:00:04,229 --> 00:00:08,183
+ka tās ir A vitamīna,
+E vitamīna, B2 vitamīna,
+
+3
+00:00:08,285 --> 00:00:10,689
+fosfora un selēna avots.
+

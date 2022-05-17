@@ -1,0 +1,4 @@
+1
+00:00:01,036 --> 00:00:10,516
+Tur tiks pārbaudīta 12 dažādu ražotāju Latvijas veikalos pieejamo ogu uzturvērtību, lai noskaidrotu, vai tās savstarpēji būtiski atšķiras.
+

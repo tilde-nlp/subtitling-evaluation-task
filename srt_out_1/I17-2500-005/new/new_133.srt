@@ -1,0 +1,13 @@
+1
+00:00:00,707 --> 00:00:02,257
+Tu esi sevi pierādījis darbā.
+
+2
+00:00:02,697 --> 00:00:03,807
+Tu esi aizvējā.
+
+3
+00:00:04,257 --> 00:00:08,007
+Apskatīsimies, vai miliči un karavīri
+netiecās uz mūsu pusi ķermenīšus.
+

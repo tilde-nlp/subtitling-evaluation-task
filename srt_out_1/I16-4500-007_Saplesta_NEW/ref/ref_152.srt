@@ -1,0 +1,14 @@
+1
+00:00:00,414 --> 00:00:02,614
+Nekādu problēmu!
+Kādus vajadzēs?
+
+2
+00:00:03,323 --> 00:00:05,776
+Nate lūdza, lai braucam mēs ar Arvīdu.
+
+3
+00:00:05,996 --> 00:00:08,529
+Arvīds tagad ir aizņemts.
+Braukšu es.
+

@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,780
+Varbūt viņš tiešām domā, ka tev tas Miķelis patīk.
+
+2
+00:00:05,190 --> 00:00:08,590
+Kom, ķēķa gars ir apslimis, es gribu aiziet apciemot.
+
+3
+00:00:08,700 --> 00:00:11,660
+Pieskatīs līdz bodes kādu stundiņu, protams.
+

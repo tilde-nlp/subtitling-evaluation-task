@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:04,900
+Viņš tādus pekstiņus par aliņu sūtņiem esam atklausījušies un pēc tam viena daļa pamostas čekas pagrabos.
+
+2
+00:00:05,840 --> 00:00:07,710
+Kura no tām visām ir šī grāmata.
+

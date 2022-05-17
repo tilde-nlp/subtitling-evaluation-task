@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:05,075
+Dzeltenums sastāv no 99% tauku,
+
+2
+00:00:05,593 --> 00:00:07,307
+tie ir gan labie, gan sliktie tauki.
+
+3
+00:00:07,453 --> 00:00:11,552
+Abi tauku avoti mums ir nepieciešami.
+

@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:03,750
+Tas ir pirmais ko nekādā gadījumā nedrīkst darīt.
+
+2
+00:00:03,750 --> 00:00:05,040
+Jūs sakāt, jā.
+
+3
+00:00:05,190 --> 00:00:07,340
+Nopietni, kāpēc patīk.
+
+4
+00:00:07,590 --> 00:00:08,970
+Ideāls līdzeklis.
+

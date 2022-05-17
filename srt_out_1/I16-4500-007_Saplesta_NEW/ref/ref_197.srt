@@ -1,0 +1,13 @@
+1
+00:00:00,214 --> 00:00:01,881
+Sveiki, Ķieķa tēv.
+
+2
+00:00:02,626 --> 00:00:05,699
+Dzirdēju, ka esot apslimis,
+atnesu jums savu maizi.
+
+3
+00:00:08,712 --> 00:00:10,245
+[Jēcis aizcērt durvis.]
+

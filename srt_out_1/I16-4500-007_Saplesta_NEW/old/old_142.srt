@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:03,370
+Kautrīgs viņš ir varbūt tāpēc, ka viņš domā, ka tev patīk Miķelis.
+
+2
+00:00:03,620 --> 00:00:05,800
+Tev ir jāliek viņam saprast, ka tā nav.
+
+3
+00:00:06,420 --> 00:00:07,480
+Tas ir grūti.
+
+4
+00:00:09,260 --> 00:00:10,400
+Tev izdosies.
+

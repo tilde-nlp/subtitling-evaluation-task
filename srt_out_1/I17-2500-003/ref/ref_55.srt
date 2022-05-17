@@ -1,0 +1,13 @@
+1
+00:00:00,168 --> 00:00:02,137
+Jūsu ciemā daudzus izveda?
+
+2
+00:00:03,469 --> 00:00:04,968
+Kā uz to skatās.
+
+3
+00:00:05,827 --> 00:00:09,846
+Citur vairāk,
+bet ciešanas jau nemēra skaitļos.
+

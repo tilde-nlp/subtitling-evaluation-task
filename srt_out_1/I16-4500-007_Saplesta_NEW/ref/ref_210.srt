@@ -1,0 +1,12 @@
+1
+00:00:01,868 --> 00:00:04,159
+Palīgā!
+
+2
+00:00:06,374 --> 00:00:08,774
+Dakterēsim tevi pēc sentēvu metodes.
+
+3
+00:00:08,855 --> 00:00:10,922
+Galvenais, lai kājas ir siltas!
+

@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:03,670
+Ej prom no norisēm, katls ar apsveicu.
+
+2
+00:00:04,080 --> 00:00:05,160
+Kur tu stiepjas kazu.
+
+3
+00:00:05,450 --> 00:00:07,010
+Paņem visu, kas ir maz.
+
+4
+00:00:08,260 --> 00:00:10,650
+Viss, kas ir noriešos, piederēja Rika.
+

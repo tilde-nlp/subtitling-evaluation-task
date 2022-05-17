@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,563
+Jautājums: kādā temperatūrā
+tu vislabāk gribētu pārcilāt 20 tonnas?
+
+2
+00:00:05,849 --> 00:00:08,627
+Slauc, protams, ar mašīnu, ne ar rokām.
+
+3
+00:00:09,221 --> 00:00:11,872
+Cik litrus viena govs iedod?
+

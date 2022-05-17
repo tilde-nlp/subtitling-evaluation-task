@@ -1,0 +1,9 @@
+1
+00:00:01,108 --> 00:00:08,288
+arhitekts pats atzīst. Es viņam prasu:
+nu, vai Ādažos vajag 12 stāvu milzu māju?
+
+2
+00:00:08,288 --> 00:00:09,758
+viņš saka: Ādažiem nevajag.
+

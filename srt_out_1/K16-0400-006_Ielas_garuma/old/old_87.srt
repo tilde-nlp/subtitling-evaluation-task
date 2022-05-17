@@ -1,0 +1,12 @@
+1
+00:00:01,147 --> 00:00:03,897
+Viņam ir tāda īpatnēja forma.
+
+2
+00:00:04,117 --> 00:00:09,127
+Viņš tev garš, viņš nav apaļš, tā četrkantīgs, viņš tev taisnstūrus.
+
+3
+00:00:09,227 --> 00:00:12,387
+Tā kā elipse šis galds ir transformējams.
+

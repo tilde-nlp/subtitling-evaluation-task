@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,000
+tad šeit pašā centrā ir lustra,
+kas ir restaurēta,
+
+2
+00:00:05,055 --> 00:00:07,539
+un virs lustras ir centrālā griestu rozete.
+
+3
+00:00:07,586 --> 00:00:10,089
+Tā ir atvērta zieda formā.
+

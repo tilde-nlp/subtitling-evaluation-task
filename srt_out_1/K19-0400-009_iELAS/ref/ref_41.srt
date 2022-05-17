@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,483
+Tas man visvairāk patīk,
+ka ziemā te ir pilnīgs miers.
+
+2
+00:00:03,971 --> 00:00:05,300
+Apmēram kā tagad.
+
+3
+00:00:05,483 --> 00:00:08,018
+Un vasarās te vienkārši ir pilns.
+

@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,275
+Paskatīsimies atpūtas telpu!
+
+2
+00:00:01,875 --> 00:00:05,195
+Šeit ir telpa,
+kurā ir jārunā ļoti klusu.
+
+3
+00:00:06,154 --> 00:00:08,075
+Bet te neviena nav...
+

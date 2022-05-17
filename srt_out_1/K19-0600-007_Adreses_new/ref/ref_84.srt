@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,240
+Arhitekts pats atzīst.
+
+2
+00:00:01,358 --> 00:00:06,762
+Es viņam prasu:
+“Bet vai Ādažos vajag 12 stāvu milzu māju?”
+
+3
+00:00:07,391 --> 00:00:09,257
+Viņš saka: “Ādažiem nevajag.”
+

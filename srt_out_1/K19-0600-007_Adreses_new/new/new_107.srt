@@ -1,0 +1,17 @@
+1
+00:00:00,789 --> 00:00:02,409
+Tomēr attīstītājs, arhitekti
+
+2
+00:00:03,299 --> 00:00:09,129
+okei, dzīvokļu man būs mazāks,
+toties ar šādu zaļu parku tie būs vērtīgāki.
+
+3
+00:00:09,129 --> 00:00:12,149
+Un iekoptā promenāde nav slēgta. Tā ir brīvība
+
+4
+00:00:12,289 --> 00:00:12,989
+mums visiem.
+

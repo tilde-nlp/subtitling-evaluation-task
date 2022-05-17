@@ -1,0 +1,4 @@
+1
+00:00:01,171 --> 00:00:10,171
+Esībā loģiski, ja tev dzīvokļi visriņķī pa perimetru, tad nu dzīvokļiem ir vajadzīga gaisma no abām pusēm, nevis tikai no ārpuses apkārt.
+

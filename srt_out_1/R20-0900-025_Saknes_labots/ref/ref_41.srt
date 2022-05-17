@@ -1,0 +1,14 @@
+1
+00:00:01,732 --> 00:00:03,581
+Un jautājumā par ļaunumu...
+
+2
+00:00:03,729 --> 00:00:08,822
+Pieņemu, ka tur, cietumā,
+varētu būt liela ļaunuma koncentrācija.
+
+3
+00:00:08,946 --> 00:00:11,462
+Vismaz tai brīdī,
+kad tie cilvēki ienāk.
+

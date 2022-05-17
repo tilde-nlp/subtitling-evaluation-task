@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:05,038
+Šis bija arhitektoniskais risinājums,
+kā pēc projekta pārstrādes nodrošināt,
+
+2
+00:00:05,639 --> 00:00:08,998
+lai tas, ko te atrada,
+būtu redzams tautai
+
+3
+00:00:09,598 --> 00:00:11,637
+un publiski pieejams.
+

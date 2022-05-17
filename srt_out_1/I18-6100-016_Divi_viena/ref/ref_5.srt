@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,972
+Zināšanas ir zināšanas.
+
+2
+00:00:03,024 --> 00:00:05,682
+Kam tev kādreiz dzīvē noderējis tas,
+
+3
+00:00:05,865 --> 00:00:08,772
+ka hipotenūzas kvadrāts
+ir vienāds ar katešu kvadrātu summu?
+

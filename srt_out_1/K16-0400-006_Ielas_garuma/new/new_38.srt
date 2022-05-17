@@ -1,0 +1,14 @@
+1
+00:00:01,017 --> 00:00:02,097
+vai nav jocīgi,
+
+2
+00:00:02,097 --> 00:00:06,597
+ka ielas dalās arī pēc kategorijām,
+tieši tāpat kā sportisti varbūt pēc svara.
+
+3
+00:00:06,597 --> 00:00:12,737
+Un ielas, protams, nosaka to gabarīti
+un viņu kvalitātes atšķirība,
+

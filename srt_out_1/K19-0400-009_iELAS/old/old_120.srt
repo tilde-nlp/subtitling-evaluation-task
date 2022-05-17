@@ -1,0 +1,12 @@
+1
+00:00:01,013 --> 00:00:03,123
+Tāda diezgan pagānisks.
+
+2
+00:00:03,353 --> 00:00:07,243
+Tad visi šņāca, cik vien klusu var vai skaļi.
+
+3
+00:00:07,283 --> 00:00:12,043
+Un tad kliedz, cik vien skaļi var tā, kā nu sveicinot saulīti.
+

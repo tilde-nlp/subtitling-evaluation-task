@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,078
+Agrāk šis uzvārds bijis ļoti izplatīts,
+
+2
+00:00:03,253 --> 00:00:04,945
+ciemā smējušies:
+
+3
+00:00:05,112 --> 00:00:09,364
+"Ja pieci cilvēki salasās,
+tad četri ir Innusi."
+

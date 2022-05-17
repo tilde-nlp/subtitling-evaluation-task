@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:04,902
+humāns mērogs, šauras ieliņas, laukumi,
+
+2
+00:00:05,181 --> 00:00:08,106
+perimetrs kvartāliem,
+
+3
+00:00:08,436 --> 00:00:10,098
+vertikālas dominantītes.
+

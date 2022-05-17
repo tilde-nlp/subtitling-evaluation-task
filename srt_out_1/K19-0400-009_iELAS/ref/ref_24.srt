@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,882
+Šeit ir mājas plāns.
+
+2
+00:00:04,585 --> 00:00:07,846
+Viņš pats izgudroja, kādai tai mājai jābūt?
+
+3
+00:00:08,037 --> 00:00:11,328
+Viņš pats izgudroja un pats zīmēja.
+

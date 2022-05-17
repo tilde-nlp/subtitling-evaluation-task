@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,206
+Nav.
+
+2
+00:00:01,839 --> 00:00:05,108
+Tu neesi akls,
+tu esi vienkārši īgns vecis.
+
+3
+00:00:05,398 --> 00:00:09,153
+Apstiprini? Fotoaparāta te nav.
+

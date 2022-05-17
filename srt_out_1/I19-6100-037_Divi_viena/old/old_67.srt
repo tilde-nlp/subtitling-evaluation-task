@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,700
+Piemēram, tāds Ozoliņš.
+
+2
+00:00:02,040 --> 00:00:06,300
+Atnāktu pie manis bārā, es būtu vienkārši sajūsmā.
+
+3
+00:00:06,410 --> 00:00:08,660
+A, viņš ņēma, mani sazāģēja gabalos.
+

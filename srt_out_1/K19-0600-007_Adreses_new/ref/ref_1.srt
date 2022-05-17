@@ -1,0 +1,13 @@
+1
+00:00:04,166 --> 00:00:06,834
+Ikviena adrese rāda, kā mēs dzīvojam.
+
+2
+00:00:07,020 --> 00:00:09,548
+Bet ja salīdzina divas adreses,
+
+3
+00:00:09,658 --> 00:00:13,818
+ir vieglāk ieraudzīt,
+kā varētu un vajadzētu dzīvot.
+

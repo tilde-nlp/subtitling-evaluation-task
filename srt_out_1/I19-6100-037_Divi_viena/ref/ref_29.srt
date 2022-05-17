@@ -1,0 +1,13 @@
+1
+00:00:00,350 --> 00:00:03,363
+Es šobrīd tikai uzklausu jūsu liecību.
+
+2
+00:00:04,234 --> 00:00:07,503
+Kā ir ar to fotogrāfu?
+Vai viņš jau ir runājis?
+
+3
+00:00:07,667 --> 00:00:09,479
+Kāpēc jūs tas interesē?
+

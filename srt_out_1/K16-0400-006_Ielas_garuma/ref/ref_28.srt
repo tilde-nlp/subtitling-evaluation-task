@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:03,060
+Visos laikos esot ballējuši Zelta zālē,
+
+2
+00:00:03,112 --> 00:00:07,173
+kurai zīda tapetes
+restauratori atrada Japānā,
+
+3
+00:00:07,300 --> 00:00:11,730
+bet savi stāsti ir arī Kamīna
+un Eņģeļu zālei.
+

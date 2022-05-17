@@ -1,0 +1,8 @@
+1
+00:00:00,350 --> 00:00:02,360
+Atzina zināšanas, ir zināšanas.
+
+2
+00:00:04,080 --> 00:00:09,030
+Kam tev kādreiz dzīvē noderēs tas, ka hipotenūzas kvadrāts ir pienācis katešu kvadrātu summu.
+

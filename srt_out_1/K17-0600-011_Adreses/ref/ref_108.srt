@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,240
+Paskaties, te ir arī atpūtas telpa!
+
+2
+00:00:03,841 --> 00:00:05,404
+Te var uzspēlēt galda tenisu.
+
+3
+00:00:05,641 --> 00:00:09,603
+To ekrānu, pat ja to redzēs,
+mēs nedrīkstēsim rādīt.
+

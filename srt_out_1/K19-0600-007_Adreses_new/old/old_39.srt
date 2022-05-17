@@ -1,0 +1,16 @@
+1
+00:00:00,823 --> 00:00:05,403
+Un tad to visu ir pārcēlusi jaunā arhitektūras valodā, pēkšņi bams.
+
+2
+00:00:05,743 --> 00:00:07,143
+Pieminekļu sargi.
+
+3
+00:00:07,203 --> 00:00:08,493
+Uzliek veto.
+
+4
+00:00:09,383 --> 00:00:10,303
+Nu ko viņi saka.
+

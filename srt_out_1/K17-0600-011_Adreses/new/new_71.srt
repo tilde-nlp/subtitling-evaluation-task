@@ -1,0 +1,18 @@
+1
+00:00:00,459 --> 00:00:01,329
+vistas,
+
+2
+00:00:01,389 --> 00:00:03,555
+tas viss, tā ir publiski pieejama,
+
+3
+00:00:03,555 --> 00:00:06,639
+lai būtu publiski pieejams,
+ir arī interesenti,
+
+4
+00:00:06,639 --> 00:00:12,669
+tas nav šobrīd šeit glabā
+velosipēdus, tagadējā biroja darbinieki
+

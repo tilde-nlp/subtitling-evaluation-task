@@ -1,0 +1,13 @@
+1
+00:00:00,517 --> 00:00:05,637
+tad varētu nodzīvot līdz 100 gadiem
+vai nedaudz ilgāk.
+
+2
+00:00:05,755 --> 00:00:07,581
+Tas varētu būt iespējams.
+
+3
+00:00:08,356 --> 00:00:10,999
+Bet jautājums pēc būtības bija...
+

@@ -1,0 +1,4 @@
+1
+00:00:00,976 --> 00:00:12,506
+Pēc Latvijas Neatkarības atjaunošanas bankā sākās jauni laiki, vispirms tika atjaunota nacionālā valūta lats un Pārdaugavā uzcēla jaunu naudas glabātuve.
+

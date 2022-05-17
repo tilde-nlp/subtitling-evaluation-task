@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,230
+Jāpabeidz viens autiņš
+un tad jāsagaida Zurabs no pusdienām.
+
+2
+00:00:05,230 --> 00:00:07,070
+Varam gari. maxpusstunda.
+
+3
+00:00:07,580 --> 00:00:10,720
+Jā, labi. Tiekamies pēc pusstundas. Čau.
+

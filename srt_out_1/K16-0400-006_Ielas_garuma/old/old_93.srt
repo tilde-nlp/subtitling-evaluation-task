@@ -1,0 +1,4 @@
+1
+00:00:00,255 --> 00:00:11,795
+Naudu Latvijas Banka kā centrālā banka pašlaik ir atbildīgi par naudas politiku Latvijā, tas notiek eirozonā eiro sistēmas ietvaros kopā ar citām citām eirozonas centrālajām bankām.
+

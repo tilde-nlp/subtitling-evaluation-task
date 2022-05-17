@@ -1,0 +1,10 @@
+1
+00:00:00,000 --> 00:00:05,850
+Induļa Paiča grāmatas par to,
+kā ļaunums mūsos ienāk, kā to atpazīt.
+
+2
+00:00:05,850 --> 00:00:09,950
+viena no skaistākajām lappusēm,
+ko es atradu šai grāmatā ID
+

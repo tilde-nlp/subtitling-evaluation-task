@@ -1,0 +1,14 @@
+1
+00:00:00,131 --> 00:00:03,065
+Tūlīt apskatīšos savējo.
+Nē, arī tur nav.
+
+2
+00:00:03,648 --> 00:00:06,981
+Lauri,
+tev Ralfs neko nav atsūtījis uz e-pastu?
+
+3
+00:00:07,286 --> 00:00:09,605
+Nē, Laurim arī neko nav atsūtījis.
+

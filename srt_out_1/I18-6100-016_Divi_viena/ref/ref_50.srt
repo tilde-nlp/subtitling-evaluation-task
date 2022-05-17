@@ -1,0 +1,13 @@
+1
+00:00:01,442 --> 00:00:04,553
+Jāsagaida Zurabs no pusdienām.
+
+2
+00:00:04,744 --> 00:00:06,580
+Tad varam gāzt.
+Maksimums pusstunda.
+
+3
+00:00:06,722 --> 00:00:10,091
+Jā, labi, tiekamies pēc pusstundas. Čau!
+

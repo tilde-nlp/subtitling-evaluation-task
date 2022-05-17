@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:03,238
+Zini, kas ir tas tornis?
+- Lielais tornis.
+
+2
+00:00:03,837 --> 00:00:06,836
+Varbūt novērošanas tornis.
+- Nē.
+
+3
+00:00:07,079 --> 00:00:09,480
+Sākotnēji tas bijis baznīcas tornis.
+

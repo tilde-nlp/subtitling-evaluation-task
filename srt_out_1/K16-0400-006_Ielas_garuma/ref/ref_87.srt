@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,714
+Tam ir tāda īpatnēja forma.
+
+2
+00:00:03,245 --> 00:00:06,998
+Tas nav garš, nav apaļš,
+tas nav četrkantīgs, nav taisnstūris.
+
+3
+00:00:07,494 --> 00:00:11,131
+Tas ir kā elipse. Tas ir transformējams.
+

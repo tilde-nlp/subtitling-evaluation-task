@@ -1,0 +1,17 @@
+1
+00:00:00,344 --> 00:00:03,614
+redz, ja tu skolā drusku labāk mācītos,
+
+2
+00:00:03,614 --> 00:00:06,544
+tad tev i biļetes nopirkt
+jāizvest uz turieni.
+
+3
+00:00:06,544 --> 00:00:08,784
+Jā, bet skola ir totāls sviests.
+
+4
+00:00:08,984 --> 00:00:11,234
+Par Pitagora teorēmu neko nenopirksi,
+

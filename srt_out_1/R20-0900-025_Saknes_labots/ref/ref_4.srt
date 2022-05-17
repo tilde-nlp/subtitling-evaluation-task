@@ -1,0 +1,14 @@
+1
+00:00:01,057 --> 00:00:04,212
+Kas ir ļaunums,
+un no kurienes tas cilvēkā rodas?
+
+2
+00:00:04,827 --> 00:00:07,274
+Kā mēs to slāpējam vai attīstam?
+
+3
+00:00:07,605 --> 00:00:13,042
+Ko īsti nozīmē tēvreizes vārdi
+„atpestī mūs no ļauna”?
+

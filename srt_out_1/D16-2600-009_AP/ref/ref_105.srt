@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,368
+Grāmatas lasīt es nelieku latviski.
+
+2
+00:00:03,439 --> 00:00:07,087
+Vecākais dēls palasīja kādu laiku,
+bet viņam apnika.
+
+3
+00:00:07,165 --> 00:00:09,009
+Viņam angliski iet vieglāk.
+

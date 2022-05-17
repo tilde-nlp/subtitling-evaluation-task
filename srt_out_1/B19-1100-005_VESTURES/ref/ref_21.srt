@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:03,283
+Abas komandas pildīs trīs spēles uzdevumus,
+vērtēsiet viens otru,
+
+2
+00:00:03,387 --> 00:00:06,355
+savukārt divas spēles monētas
+došu uzdevuma vadītājam,
+
+3
+00:00:06,474 --> 00:00:09,092
+kas tās izmantos,
+piešķirot jums kā papildpunktus.
+

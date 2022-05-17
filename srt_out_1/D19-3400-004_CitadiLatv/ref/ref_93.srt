@@ -1,0 +1,12 @@
+1
+00:00:01,085 --> 00:00:03,311
+Pie sienas cieši neliec.
+
+2
+00:00:04,244 --> 00:00:06,890
+Liec ūdens spaini atpakaļ!
+
+3
+00:00:07,767 --> 00:00:12,262
+Tabureti var aiznest. Te pie plīts noliec.
+

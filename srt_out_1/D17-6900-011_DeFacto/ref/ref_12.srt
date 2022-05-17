@@ -1,0 +1,14 @@
+1
+00:00:01,516 --> 00:00:03,909
+Es pieņemu, ka tas ir apstāklis.
+
+2
+00:00:04,072 --> 00:00:10,005
+Ja redzējumi kardināli atšķiras,
+tad sekmes varētu būt limitētākas.
+
+3
+00:00:10,115 --> 00:00:13,108
+Mums jābūt
+maksimāli pievilcīgiem aviokompānijām.
+

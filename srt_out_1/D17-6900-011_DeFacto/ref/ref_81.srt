@@ -1,0 +1,14 @@
+1
+00:00:01,773 --> 00:00:04,120
+Viņu kontrole būs vēl rūpīgāka,
+
+2
+00:00:04,214 --> 00:00:07,958
+lai atklātu tos gadījumus,
+kad šis režīms tiek izmantots nepamatoti,
+
+3
+00:00:08,077 --> 00:00:11,281
+lai izvairītos
+no lielākiem nodokļu maksājumiem.
+

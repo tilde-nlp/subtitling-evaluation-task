@@ -1,0 +1,13 @@
+1
+00:00:00,546 --> 00:00:02,287
+Tēvam bija pusbrālis.
+
+2
+00:00:02,404 --> 00:00:09,132
+Viņš bija vācu pusē,
+bet mans tēvs bija krievu pusē.
+
+3
+00:00:09,547 --> 00:00:11,758
+Un bija naids.
+

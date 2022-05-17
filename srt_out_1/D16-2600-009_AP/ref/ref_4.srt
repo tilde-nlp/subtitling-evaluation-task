@@ -1,0 +1,13 @@
+1
+00:00:00,226 --> 00:00:02,820
+Skatāmies – operācija “I am Latvian”,
+
+2
+00:00:02,897 --> 00:00:06,014
+kas tulkojumā no angļu valodas nozīmē
+“Es esmu latvietis”.
+
+3
+00:00:08,180 --> 00:00:09,897
+Operācija “I am Latvian”.
+

@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:02,717
+Uzņēmums ir "Ventspils nafta" grupas sastāvā.
+
+2
+00:00:02,773 --> 00:00:06,325
+Un tā īpašnieku piramīdas augšgalā
+ir starptautiskais koncerns "Vitol".
+
+3
+00:00:06,367 --> 00:00:09,403
+Pieņemsim,
+ir tāda pasaules kompānija kā "Vitol".
+

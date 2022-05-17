@@ -1,0 +1,14 @@
+1
+00:00:00,647 --> 00:00:05,238
+lai satiktu cilvēku,
+kas šogad ir atbildīgs par svētku organizēšanu.
+
+2
+00:00:05,334 --> 00:00:06,861
+Sveicināti! - Sveiki!
+
+3
+00:00:06,957 --> 00:00:10,217
+Izskatās kā Jāņu vainags,
+bet nav Jāņu vainags.
+

@@ -1,0 +1,14 @@
+1
+00:00:00,127 --> 00:00:02,510
+Vai tavi bērni runās latviski?
+- Jā, protams.
+
+2
+00:00:02,580 --> 00:00:05,322
+Vai tu daudz lieto latviešu valodu?
+
+3
+00:00:05,385 --> 00:00:11,439
+Es draugu starpā parasti runāju angliski,
+bet mājās latviešu valodā.
+

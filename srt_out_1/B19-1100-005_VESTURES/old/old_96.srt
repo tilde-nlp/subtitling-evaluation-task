@@ -1,0 +1,12 @@
+1
+00:00:00,343 --> 00:00:04,663
+Ja tu esi viens no jauniešiem, šodien jums veiksies sacensībās.
+
+2
+00:00:04,673 --> 00:00:06,883
+Sacensībās parādīsiet.
+
+3
+00:00:06,903 --> 00:00:10,853
+Prasmes, kuros ir nepieciešamas karavīram
+

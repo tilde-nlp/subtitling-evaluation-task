@@ -1,0 +1,13 @@
+1
+00:00:02,234 --> 00:00:04,011
+Izgatavojusies viņa ir diezgan labi,
+
+2
+00:00:04,099 --> 00:00:09,445
+bet man personīgi šādas putras negaršo,
+tāpēc es īsti nevarēšu novērtēt.
+
+3
+00:00:11,752 --> 00:00:13,273
+Paldies.
+

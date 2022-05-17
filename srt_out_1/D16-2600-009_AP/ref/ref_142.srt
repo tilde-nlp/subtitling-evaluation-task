@@ -1,0 +1,13 @@
+1
+00:00:00,252 --> 00:00:05,179
+Šajā gadā plānotais ir 200 000.
+
+2
+00:00:05,257 --> 00:00:07,437
+Visai pasaulei,
+
+3
+00:00:07,511 --> 00:00:11,569
+bet, protams,
+lielākā daļa koncentrējas Eiropā,
+

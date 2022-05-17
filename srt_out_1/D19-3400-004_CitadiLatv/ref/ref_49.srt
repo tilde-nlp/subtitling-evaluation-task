@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:04,871
+Pastāstiet par večerinku.
+Ne večerinku, bet…
+
+2
+00:00:04,952 --> 00:00:07,979
+Vakarēšanu?
+- Pastāstiet par vakarēšanu jeb suprātkām.
+
+3
+00:00:08,054 --> 00:00:11,009
+Vakarēšanas būtība, manuprāt, ir tāda…
+

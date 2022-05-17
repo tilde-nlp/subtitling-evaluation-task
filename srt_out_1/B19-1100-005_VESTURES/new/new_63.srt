@@ -1,0 +1,10 @@
+1
+00:00:00,775 --> 00:00:06,145
+tad šaušanas datu sagatavotie sagatavo datus,
+un tad lielgabalnieki uzliek tos datus
+
+2
+00:00:06,145 --> 00:00:09,865
+uz tēmēšanas ierīcēm lielgabala
+un tad veic šaušana,
+

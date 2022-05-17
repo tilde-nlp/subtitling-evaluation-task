@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,196
+tie mērījumi, ko viņi veica ar binokli.
+
+2
+00:00:02,308 --> 00:00:04,874
+Mēs viņiem dosim četras monētas,
+
+3
+00:00:05,002 --> 00:00:09,815
+jo līdz ideālam rezultātam vēl ir tālu,
+par cik viena kļūda.
+

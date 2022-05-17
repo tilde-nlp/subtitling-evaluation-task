@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:05,000
+Tev bērni runās latviski, jo protams, ka daudz lieto latviešu valodu.
+
+2
+00:00:05,180 --> 00:00:06,040
+Nē.
+
+3
+00:00:06,920 --> 00:00:11,170
+Starp draugiem parasti angliski, bet mājās latviešu valoda.
+

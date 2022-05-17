@@ -1,0 +1,12 @@
+1
+00:00:00,898 --> 00:00:02,318
+Dzestrs laiks.
+
+2
+00:00:02,848 --> 00:00:06,108
+Karavīram no rīta gribas kaut ko siltu.
+
+3
+00:00:06,518 --> 00:00:09,128
+Viņiem jāizvāra sev tējai ūdeni.
+

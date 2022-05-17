@@ -1,0 +1,14 @@
+1
+00:00:00,158 --> 00:00:04,259
+Un viņš uzkāpj uz skatuves,
+izskatās vismaz pēc piecpadsmitgadīga,
+
+2
+00:00:04,322 --> 00:00:07,476
+un viņam iedod lasīt vēstuli no Salatēta.
+
+3
+00:00:07,532 --> 00:00:11,570
+Un Klāvs bija visa teātra priekšā teicis:
+“Es nemāku lasīt.”
+

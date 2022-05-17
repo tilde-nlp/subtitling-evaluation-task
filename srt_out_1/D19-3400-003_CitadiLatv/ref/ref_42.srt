@@ -1,0 +1,13 @@
+1
+00:00:02,566 --> 00:00:05,626
+Vienu gadu bija lietus un pērkons.
+
+2
+00:00:05,733 --> 00:00:07,663
+Ko tad darījāt? - Neko…
+
+3
+00:00:07,799 --> 00:00:13,068
+Apkārt pa kapiem priesteris negāja,
+vienkārši tāpat palūdzās.
+

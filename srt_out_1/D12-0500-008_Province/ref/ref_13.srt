@@ -1,0 +1,13 @@
+1
+00:00:00,328 --> 00:00:03,249
+Viņi varēja šeit pirkt zemi.
+
+2
+00:00:03,456 --> 00:00:08,679
+Nevajadzēja ļaut citu valstu
+pilsoņiem Latvijā iegādāties zemi.
+
+3
+00:00:09,757 --> 00:00:11,638
+Būtu bijis savādāk.
+

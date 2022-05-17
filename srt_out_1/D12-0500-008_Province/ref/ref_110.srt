@@ -1,0 +1,14 @@
+1
+00:00:00,325 --> 00:00:03,061
+Savukārt Latvijā ir
+nepietiekama ražošana.
+
+2
+00:00:03,348 --> 00:00:05,631
+Kaut kur kāds izstāsies no tirgus.
+
+3
+00:00:05,942 --> 00:00:08,332
+Jautājums ir par to,
+kurš pirmais šo vietu aizņems.
+

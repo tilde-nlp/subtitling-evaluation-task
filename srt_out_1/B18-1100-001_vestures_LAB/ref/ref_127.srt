@@ -1,0 +1,13 @@
+1
+00:00:02,340 --> 00:00:04,140
+Viss pārējais bija kārtībā.
+
+2
+00:00:04,277 --> 00:00:06,109
+Paldies.
+
+3
+00:00:07,066 --> 00:00:12,018
+[Šķindina monētas.]
+Kā dzirdam, abos maisiņos iekšā ir monētas.
+

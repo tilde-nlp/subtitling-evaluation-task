@@ -1,0 +1,8 @@
+1
+00:00:00,220 --> 00:00:06,830
+Proti, vienā no atklātajiem veidiem cilvēki saņēma epasta vēstuli ar tai pievienotu PDF formāta dokumentu.
+
+2
+00:00:07,030 --> 00:00:09,280
+To atverot, dators tika inficēts.
+

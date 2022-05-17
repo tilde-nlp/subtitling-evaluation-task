@@ -1,0 +1,13 @@
+1
+00:00:01,897 --> 00:00:04,541
+Jo bija tas rotkalis šeit?
+
+2
+00:00:04,835 --> 00:00:07,994
+Jā, mēs ņemsim rotas.
+
+3
+00:00:11,001 --> 00:00:13,836
+Varētu būt medus, jā.
+Viņiem bija bites šeit.
+

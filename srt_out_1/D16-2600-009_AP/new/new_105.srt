@@ -1,0 +1,14 @@
+1
+00:00:01,457 --> 00:00:06,407
+nelieku latviski,
+viņš tups vecākais dēls palasīt kādu laiku,
+
+2
+00:00:06,407 --> 00:00:08,927
+bet viņa mākslinieka,
+viņam angliski iet vieglāk.
+
+3
+00:00:08,927 --> 00:00:09,907
+atnāc
+

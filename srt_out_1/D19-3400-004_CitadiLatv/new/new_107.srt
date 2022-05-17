@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,790
+ja šeit paliek
+
+2
+00:00:02,790 --> 00:00:08,700
+un visi pārējie ir tikai šie divi Sporta zāli
+principā. Oi, johaidī,
+

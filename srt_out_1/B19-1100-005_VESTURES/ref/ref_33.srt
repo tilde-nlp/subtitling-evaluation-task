@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,052
+viņam pretī nolikt papīru.
+
+2
+00:00:02,230 --> 00:00:07,086
+Pēc attēla attīstīšanas slapjajā procesā
+mēs iegūsim attēlu.
+
+3
+00:00:07,239 --> 00:00:10,338
+Un attēls, kuru mēs iegūsim, ir negatīvs.
+

@@ -1,0 +1,13 @@
+1
+00:00:00,343 --> 00:00:01,858
+Kristiānam ir seši gadi.
+
+2
+00:00:01,913 --> 00:00:06,522
+Kad mēs atbraucām,
+viņam bija gads un četri mēneši.
+
+3
+00:00:06,642 --> 00:00:09,194
+Samantai bija pieci.
+

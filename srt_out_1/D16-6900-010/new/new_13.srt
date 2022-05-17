@@ -1,0 +1,14 @@
+1
+00:00:00,175 --> 00:00:02,665
+proti, pieprasīta papildu informācija,
+
+2
+00:00:02,665 --> 00:00:06,115
+piemēram, mātes meitas uzvārds,
+autovadītāja apliecības numurs,
+
+3
+00:00:06,115 --> 00:00:11,875
+norēķinu kartes numurs un ASV gadījumā
+- sociālās apdrošināšanas
+

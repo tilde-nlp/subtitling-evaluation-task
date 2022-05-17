@@ -1,0 +1,14 @@
+1
+00:00:00,236 --> 00:00:00,956
+bet raidījuma iesākumā
+
+2
+00:00:00,956 --> 00:00:04,316
+- tā sauktā Imantas hakera darba
+bilance - 10000
+
+3
+00:00:04,316 --> 00:00:11,236
+inficētu datoru, tostarp 160 Amerikas
+Savienoto Valstu Kosmosa
+

@@ -1,0 +1,13 @@
+1
+00:00:02,195 --> 00:00:05,195
+Graudi, manuprāt,
+ir vēl cietāki nekā mums.
+
+2
+00:00:08,220 --> 00:00:10,044
+Tev tā neliekas?
+
+3
+00:00:10,372 --> 00:00:13,212
+Manuprāt, mums bija mīkstāki graudi.
+

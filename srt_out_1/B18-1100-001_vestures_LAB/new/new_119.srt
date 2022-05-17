@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,980
+Izglītojusies viņa ir diezgan labi,
+
+2
+00:00:01,980 --> 00:00:06,850
+bet nu man personīgi šādas putras negaršo,
+tāpēc es īsti nevarēšu komentēt.
+
+3
+00:00:09,550 --> 00:00:11,340
+Paldies.
+

@@ -1,0 +1,4 @@
+1
+00:00:00,292 --> 00:00:09,982
+Abas komandas pildīs trīs spēles. Uzdevums, vērtēsiet viens otru. Savukārt divas spēles monētas došu uzdevumu vadītājam, kas tās izmantos, piešķirot jums kā papildpunktus.
+

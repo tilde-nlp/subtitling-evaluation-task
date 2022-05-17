@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,560
+Jūs gribat teikt, ka šeit būs viesu māja un kafejnīca.
+
+2
+00:00:04,590 --> 00:00:06,270
+Nekad nesaki nekad.
+
+3
+00:00:06,580 --> 00:00:11,700
+Es jau te smej, man te ir liels lauks, vēl trīs hektāri pāri ceļam.
+

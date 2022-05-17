@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,627
+Tad par rezultātiem.
+
+2
+00:00:01,815 --> 00:00:06,157
+Otrā komanda visprecīzāk noteica
+attālumu un virzienu uz mērķi,
+
+3
+00:00:06,283 --> 00:00:09,149
+savukārt pirmā komanda bija ne tik precīza.
+

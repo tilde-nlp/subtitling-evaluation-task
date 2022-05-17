@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,896
+Tu stāvēsi šādi.
+
+2
+00:00:02,254 --> 00:00:05,587
+Viens, divi, trīs...
+
+3
+00:00:06,702 --> 00:00:11,404
+Jūs atceraties no skolas ķīmijas,
+kādas vides eksistē šķīdumos.
+

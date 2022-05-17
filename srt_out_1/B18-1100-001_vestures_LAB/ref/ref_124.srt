@@ -1,0 +1,13 @@
+1
+00:00:02,320 --> 00:00:04,559
+Vārds Skrundas komandai!
+
+2
+00:00:05,135 --> 00:00:08,075
+Mums tiešām garšoja
+pretinieku pagatavotā putra,
+
+3
+00:00:08,193 --> 00:00:10,427
+un arī pagatavošanas process bija labs.
+

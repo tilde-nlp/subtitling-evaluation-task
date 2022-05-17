@@ -1,0 +1,8 @@
+1
+00:00:00,596 --> 00:00:04,066
+Kas maksā par lauztu.
+
+2
+00:00:04,416 --> 00:00:08,836
+Palīdzība otrai cietušajai jau veicas raitāk.
+

@@ -1,0 +1,4 @@
+1
+00:00:00,236 --> 00:00:11,196
+Bet raidījuma iesākumā tā sauktā Imantas hakera darba bilance, 10000 inficētu datoru, tostarp 160 Amerikas Savienoto Valstu kosmosa aģentūras datoru.
+

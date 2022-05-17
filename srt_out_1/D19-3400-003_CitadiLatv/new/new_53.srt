@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,270
+atņems biļete izlika aiz suka
+
+2
+00:00:03,270 --> 00:00:07,890
+aizmirsa papresēt
+ar kaido tramvajs kļuva bail braukt
+
+3
+00:00:07,890 --> 00:00:10,320
+asu kur nu vēl otra braukt
+

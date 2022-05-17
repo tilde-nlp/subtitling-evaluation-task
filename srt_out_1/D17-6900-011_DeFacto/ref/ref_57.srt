@@ -1,0 +1,13 @@
+1
+00:00:01,576 --> 00:00:04,680
+Nevajadzēja baidīties no aprēķinu pieejamības,
+
+2
+00:00:04,777 --> 00:00:08,131
+tad diskusija būtu kvalitatīvāka.
+
+3
+00:00:08,311 --> 00:00:12,337
+Kamēr aprēķini nav pieejami,
+neko konkrētu pateikt nevaru.
+

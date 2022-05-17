@@ -1,0 +1,13 @@
+1
+00:00:01,799 --> 00:00:04,556
+“airBaltic” ir arī vienīgā lidsabiedrība,
+
+2
+00:00:04,698 --> 00:00:10,059
+kas no maija trīs reizes nedēļā piekritusi
+nodrošināt reisus starp Rīgu un Liepāju.
+
+3
+00:00:10,206 --> 00:00:13,204
+“airBaltic” lielākais īpašnieks ir valsts.
+

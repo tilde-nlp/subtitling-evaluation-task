@@ -1,0 +1,14 @@
+1
+00:00:00,202 --> 00:00:03,647
+Aptiekā mūsu grūtniece
+pērk vai nu pašu stiprāko <i>Ibumetīnu</i>,
+
+2
+00:00:03,733 --> 00:00:05,667
+vai nu marles apsējam.
+
+3
+00:00:05,769 --> 00:00:08,510
+Vai jums viss ir labi?
+Tādu jautājumu te neviens neuzdod.
+

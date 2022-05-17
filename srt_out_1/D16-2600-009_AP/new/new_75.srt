@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:02,250
+Viņam bija kādi gadi 12
+
+2
+00:00:02,250 --> 00:00:04,980
+viņš aiziet ar māti uz teātri
+Ziemassvētkos Latvijā,
+
+3
+00:00:04,980 --> 00:00:09,750
+un aktieri sauc tos bērnus uz skatuves,
+un viņš to roku paceļ,
+

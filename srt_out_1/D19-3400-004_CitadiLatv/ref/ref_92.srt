@@ -1,0 +1,12 @@
+1
+00:00:02,519 --> 00:00:04,249
+Dod to kubulu!
+
+2
+00:00:05,562 --> 00:00:08,046
+Nedaudz uz šo pusi. Uzmanīgi!
+
+3
+00:00:08,696 --> 00:00:11,386
+Līdz pašam stūrim? - Jā, līdz pašam galam.
+

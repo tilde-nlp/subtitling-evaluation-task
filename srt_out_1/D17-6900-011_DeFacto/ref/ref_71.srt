@@ -1,0 +1,14 @@
+1
+00:00:01,702 --> 00:00:05,787
+VID pārstāve apgalvo,
+ka konkrētā darbiniece angļu valodu zina labi,
+
+2
+00:00:05,920 --> 00:00:09,796
+tādēļ kursi apmeklēti
+tikai kontrolpirkuma nolūkos.
+
+3
+00:00:09,931 --> 00:00:13,181
+Turklāt tie bijuši ārpus oficiālā darbalaika.
+

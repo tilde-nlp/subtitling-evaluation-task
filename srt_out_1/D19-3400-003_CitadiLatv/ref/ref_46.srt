@@ -1,0 +1,13 @@
+1
+00:00:00,534 --> 00:00:04,396
+Vecmamm, es nezinu, kur mani kapiņi ir.
+
+2
+00:00:04,596 --> 00:00:07,630
+Kur tavi kapiņi ir?
+Nu šeit ir mūsu kapiņi!
+
+3
+00:00:08,072 --> 00:00:09,895
+Šie? Tavi?
+

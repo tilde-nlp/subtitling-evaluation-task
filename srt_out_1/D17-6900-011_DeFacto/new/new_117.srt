@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:00,960
+Mēs esam tikušies
+
+2
+00:00:00,960 --> 00:00:04,930
+ar Maksātnespējas administrāciju,
+apsprieduši arī šos iespējamos notikumu
+
+3
+00:00:04,930 --> 00:00:07,580
+grozījumus. Industrija ir uzklausīt šo te
+

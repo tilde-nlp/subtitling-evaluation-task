@@ -1,0 +1,4 @@
+1
+00:00:00,914 --> 00:00:09,724
+Daugavpils kaujas un Latgales atbrīvošana noslēdza neatkarības karu. Savukārt mūsu ekspedīciju noslēdz monētu skaitīšana. Vajag skaitīt naudu.
+

@@ -1,0 +1,16 @@
+1
+00:00:00,745 --> 00:00:02,755
+nu tie mērījumi, ko viņa veica minūtē,
+
+2
+00:00:02,975 --> 00:00:05,645
+mēs viņiem dosim četras monētas,
+
+3
+00:00:05,725 --> 00:00:09,095
+jo līdz ideālam rezultātam vēl ir tālu. Par cik
+
+4
+00:00:09,145 --> 00:00:10,095
+viena kļūda
+

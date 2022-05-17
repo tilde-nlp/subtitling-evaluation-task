@@ -1,0 +1,4 @@
+1
+00:00:00,148 --> 00:00:10,228
+Latvijas veselības aprūpes sistēma ir neefektīva, pēdējo gadu laikā būtiski sarucis ārstu apmeklējums gan ambulatori, gan samazinājusies arī ārstēšanās slimnīcās.
+

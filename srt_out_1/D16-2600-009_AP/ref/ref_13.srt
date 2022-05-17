@@ -1,0 +1,13 @@
+1
+00:00:01,679 --> 00:00:04,080
+Uz bērniem uzbļauj kaut ko.
+
+2
+00:00:04,150 --> 00:00:06,611
+Tāpēc man uz ielas patīk angliski runāt.
+
+3
+00:00:06,674 --> 00:00:09,720
+Es ar bērniem runāju angliski,
+un mēs visi cenšamies.
+

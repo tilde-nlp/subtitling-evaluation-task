@@ -1,0 +1,4 @@
+1
+00:00:00,184 --> 00:00:09,064
+Cilvēki privāti izdevumi par medicīnas pakalpojumiem ir līdzīgi kā daudzviet citur, bet valsts finansējums gan netiek līdzi un ir viens no zemākajiem.
+

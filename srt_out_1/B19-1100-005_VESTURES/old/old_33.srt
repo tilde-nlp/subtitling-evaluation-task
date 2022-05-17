@@ -1,0 +1,8 @@
+1
+00:00:01,065 --> 00:00:09,855
+Viņam pretī no papīra kartes attēlu attīstīšanas slapjā procesa mēs iegūsim attēlu, ja man šis attēls, ko mēs iegūsim.
+
+2
+00:00:09,955 --> 00:00:10,785
+Negatīvs.
+

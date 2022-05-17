@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:04,387
+Tās, kas trijstūrī sasistas,
+tās ir kakažas!
+
+2
+00:00:04,529 --> 00:00:05,559
+Kas ir čukurs?
+
+3
+00:00:05,667 --> 00:00:10,993
+Tas ir trijstūra gals. Pats, pats gals.
+

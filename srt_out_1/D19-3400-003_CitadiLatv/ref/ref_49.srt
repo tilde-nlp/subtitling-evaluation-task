@@ -1,0 +1,13 @@
+1
+00:00:02,541 --> 00:00:05,554
+Kas šais kapos
+jums ir apglabāts no dzimtas?
+
+2
+00:00:05,774 --> 00:00:07,437
+Te ir mans vīrs.
+
+3
+00:00:07,790 --> 00:00:12,663
+Te būs mana vieta. Es to uzturu kārtībā.
+

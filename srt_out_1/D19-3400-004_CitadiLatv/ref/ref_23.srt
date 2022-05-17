@@ -1,0 +1,13 @@
+1
+00:00:00,016 --> 00:00:04,278
+Tas ir celtnieks Andris
+un viņa dēls Jevgēnijs.
+
+2
+00:00:04,986 --> 00:00:07,328
+Viņi mums palīdzēja.
+
+3
+00:00:07,416 --> 00:00:12,003
+Tev arī alu vajag izdzert! Nu kā bez alus?
+

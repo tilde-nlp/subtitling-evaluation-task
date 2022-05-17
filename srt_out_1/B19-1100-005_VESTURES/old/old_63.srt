@@ -1,0 +1,4 @@
+1
+00:00:00,775 --> 00:00:09,105
+Tad šaušanas datu sagatavotie sagatavo datus, un tad lielgabalnieki uzliek tos datus uz tēmēšanas ierīcēm lielgabala un tad veic šaušana.
+

@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,030
+Var ķert, jā, tas ir viens no
+
+2
+00:00:02,430 --> 00:00:03,230
+Uz ceļiem.
+
+3
+00:00:05,550 --> 00:00:07,370
+Cukkopības nozari Latvijā.
+
+4
+00:00:07,700 --> 00:00:10,050
+Joprojām ir pasākums uz savu risku.
+
+5
+00:00:10,280 --> 00:00:12,060
+Ar visām no tā izrietošajām.
+

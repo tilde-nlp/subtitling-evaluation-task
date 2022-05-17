@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:02,840
+ir cēlušās cenas lopbarības, graudiem,
+
+2
+00:00:03,000 --> 00:00:03,830
+elektrībai,
+
+3
+00:00:05,260 --> 00:00:07,180
+tikai iepirkuma cenas cūkgaļai
+
+4
+00:00:07,290 --> 00:00:11,410
+palikušas nemainīgas
+un akmens cietas kā lata kurss.
+

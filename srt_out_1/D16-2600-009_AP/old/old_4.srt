@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:05,890
+Skatāmies operācija, ejam lēcienu, kas tulkojumā no angļu valodas nozīmē es esmu latvietis.
+
+2
+00:00:07,860 --> 00:00:10,240
+Operācija Latvijā.
+

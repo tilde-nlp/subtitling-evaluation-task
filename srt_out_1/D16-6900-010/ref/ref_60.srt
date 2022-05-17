@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:02,806
+Cilvēku privātie izdevumi
+par medicīnas pakalpojumiem
+
+2
+00:00:02,820 --> 00:00:04,465
+ir līdzīgi kā daudzviet citur,
+
+3
+00:00:04,550 --> 00:00:08,685
+bet valsts finansējums gan netiek līdzi
+un ir viens no zemākajiem.
+

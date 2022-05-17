@@ -1,0 +1,4 @@
+1
+00:00:00,771 --> 00:00:09,981
+Tad par rezultātiem, bet otra komanda visprecīzāk noteica attālumu un virzienu uz mērķi. Savukārt pirmā komanda bija ne tik precīza.
+

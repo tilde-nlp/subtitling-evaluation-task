@@ -1,0 +1,13 @@
+1
+00:00:02,230 --> 00:00:05,252
+bez citām sastāvdaļām.
+
+2
+00:00:05,996 --> 00:00:09,155
+Kuras ir tās sastāvdaļas,
+kuras tu parasti vēlies, bet šoreiz nav?
+
+3
+00:00:09,242 --> 00:00:10,242
+Sāls.
+

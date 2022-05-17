@@ -1,0 +1,13 @@
+1
+00:00:02,627 --> 00:00:05,160
+Šobrīd ir laiks skaitīt naudu.
+Lūdzu!
+
+2
+00:00:09,188 --> 00:00:10,721
+Monētas ir saskaitītas.
+
+3
+00:00:10,835 --> 00:00:12,850
+Rīgas komanda, cik jums ir?
+

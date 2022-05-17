@@ -1,0 +1,4 @@
+1
+00:00:00,175 --> 00:00:11,865
+Proti, pieprasīta papildu informācija, piemēram, mātes meitas uzvārds, autovadītāja apliecības numurs, norēķinu kartes numurs un ASV gadījumā sociālās apdrošināšanas numurs.
+

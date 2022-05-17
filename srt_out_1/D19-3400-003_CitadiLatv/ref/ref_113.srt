@@ -1,0 +1,13 @@
+1
+00:00:00,834 --> 00:00:03,383
+Jā, un atstāja vēl uz ilgu laiku.
+
+2
+00:00:03,493 --> 00:00:06,747
+Cerējām, ka paņems,
+bet vēl atstāja uz ilgāku laiku.
+
+3
+00:00:08,008 --> 00:00:10,810
+No kurām vietām jūs šodien esat sabraukuši?
+

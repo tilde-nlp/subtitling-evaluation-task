@@ -1,0 +1,8 @@
+1
+00:00:00,287 --> 00:00:06,117
+Nu abām komandām bija pa kļūdai, kas mums mūsu gadījumā bija tēmēšanas ātrums.
+
+2
+00:00:06,267 --> 00:00:09,877
+Bet viņiem tas bija inokļa precizitāti.
+

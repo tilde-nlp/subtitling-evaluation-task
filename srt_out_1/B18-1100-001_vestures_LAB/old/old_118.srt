@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:02,790
+Bez citām sastāvdaļām.
+
+2
+00:00:03,720 --> 00:00:05,970
+Kas ir tās sastāvdaļas, kas parasti.
+
+3
+00:00:05,970 --> 00:00:08,740
+Vēlies, bet šoreiz nav sāls.
+

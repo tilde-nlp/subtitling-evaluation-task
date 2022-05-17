@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:04,060
+Kāpēc jums liekas, ka angļu valodu
+vairāk nekā latviešu valodā?
+
+2
+00:00:04,060 --> 00:00:06,310
+Tāpēc, ka mēs te dzīvojam Anglijā
+
+3
+00:00:06,310 --> 00:00:10,850
+un to latviešu valodu mēs pārsvarā
+tikai mājās pielietojumu
+
